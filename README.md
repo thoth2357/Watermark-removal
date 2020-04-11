@@ -14,4 +14,7 @@ pip install pdf2image
 # usage
 put the watermarked pdf file into the same directory as the code and rename it as test.pdf
 then run the script watermark removal.py by opening a command line in the same directory as the code and typing
-python watermark-removal.py
+python watermark-removal.py 
+
+# output
+the pdf file whose watermarking has been removed by the script shall be stored in the same directory that the script was run from
